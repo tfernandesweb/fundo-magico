@@ -1,7 +1,7 @@
 body {
     background-color: #0f131a;
     color: #ffffff;
-    background: url(../images/back_02.JPG);
+    background: url(../images/back_02.jpg);
     font-family: "Roboto Mono", monospace;
     line-height: 1.4;
     padding: 32px 24px;
@@ -113,6 +113,7 @@ body {
     white-space: pre-wrap;
     word-wrap: break-word;
 }
+
 
 
 
